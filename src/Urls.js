@@ -1,0 +1,1 @@
+export const baseUrl = `https://swiptory-backend-1sld.onrender.com`
